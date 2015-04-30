@@ -1,0 +1,1210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>hot_spots</name>
+	<Style id="sn_ylw-pushpin020">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin70">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin020</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin03">
+		<IconStyle>
+			<scale>3</scale>
+			<Icon>
+				<href>http://www.geology.sdsu.edu/kmlgeology/icons/hotspots.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin510">
+		<IconStyle>
+			<scale>3.5</scale>
+			<Icon>
+				<href>http://www.geology.sdsu.edu/kmlgeology/icons/hotspots.png</href>
+			</Icon>
+			<hotSpot x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+		</IconStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin8</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sn_ylw-pushpin7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin400">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin03</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin510</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-pushpin2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-pushpin8">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<Style id="sh_ylw-pushpin5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+			</Icon>
+			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LineStyle>
+			<width>3</width>
+		</LineStyle>
+	</Style>
+	<StyleMap id="msn_ylw-pushpin4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin7</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-pushpin4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-pushpin1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Earth&apos;s Hot Spots</name>
+		<open>1</open>
+		<description><![CDATA[<hr>
+<center><a href="http://www.geology.sdsu.edu"><img src="http://www.geology.sdsu.edu/kmlgeology/images/logo.jpg"></a><br>
+<i>Google Earth Overlays<br>
+Tony Carrasco</center></i>]]></description>
+		<Folder>
+			<name>Hot Spots</name>
+			<description>In geology, a hotspot is a location on the Earth&apos;s surface that has experienced active volcanism for a long period of time.</description>
+			<Placemark>
+				<name>AFAR, EHTIOPIA</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = AFAR, EHTIOPIA<BR><B>Buoyancy flux (Mg/s)</B> = 1.2<BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = primary<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = average<BR><B>TZ thickness (km) [1]</B> = normal<BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = UM<BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = yes<BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = no<BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = slow<BR><B>ULVZ at D'?</B> = no<BR><B>Associated LIP?</B> = Ethiopia]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>42,12,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>AMSTERDAM/ST.PAUL</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = AMSTERDAM/ST.PAUL<BR><B>Buoyancy flux (Mg/s)</B> = <BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = <BR><B>geoid height (m)</B> = 0<BR><B>3He/4He (R/Ra)</B> = low<BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = yes<BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>77,-37,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ASCENSION</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = ASCENSION<BR><B>Buoyancy flux (Mg/s)</B> = 0.9<BR><B>flux reliability</B> = poor<BR><B>Courtillot et al. (2003)</B> = 0<BR><B>geoid height (m)</B> = 0.4<BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = yes<BR><B>ULVZ at D'?</B> = no<BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-14.37,-7.95,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>AZORES</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = AZORES<BR><B>Buoyancy flux (Mg/s)</B> = 1.2<BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = 1<BR><B>geoid height (m)</B> = 3<BR><B>3He/4He (R/Ra)</B> = low<BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = < 70?<BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = NO<BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = yes<BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = yes<BR><B>ULVZ at D'?</B> = no<BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-25.29004937579439,37.75892873868209,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BAJA/GUADALUPE</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = BAJA/GUADALUPE<BR><B>Buoyancy flux (Mg/s)</B> = <BR><B>flux reliability</B> = poor<BR><B>Courtillot et al. (2003)</B> = 0<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = yes<BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = no<BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-113,27,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BALLENY</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = BALLENY<BR><B>Buoyancy flux (Mg/s)</B> = <BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = 0<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>164.7017,-67.3982,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BERMUDA</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = BERMUDA<BR><B>Buoyancy flux (Mg/s)</B> = 1.3<BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = 0<BR><B>geoid height (m)</B> = 5.5<BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = normal<BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = NO<BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = fast<BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = no<BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-64.69959488199629,32.34654903960049,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BOUVET</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = BOUVET<BR><B>Buoyancy flux (Mg/s)</B> = 0.4<BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = 1<BR><B>geoid height (m)</B> = 0<BR><B>3He/4He (R/Ra)</B> = MORB-like<BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = no<BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = no<BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>3.350000000000001,-53.93,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>BOWIE SEAMOUNT, KODIAC SEAMOUNTS</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = BOWIE SEAMOUNT, KODIAC SEAMOUNTS<BR><B>Buoyancy flux (Mg/s)</B> = 0.3<BR><B>flux reliability</B> = poor<BR><B>Courtillot et al. (2003)</B> = 2<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = UM<BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = yes<BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-135.6481537710462,53.27645042224386,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CAMEROON LINE</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = CAMEROON LINE<BR><B>Buoyancy flux (Mg/s)</B> = <BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = 0<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = fast<BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>9,-54,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CANARY ISLANDS</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = CANARY ISLANDS<BR><B>Buoyancy flux (Mg/s)</B> = 1<BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = 2<BR><B>geoid height (m)</B> = 6.8<BR><B>3He/4He (R/Ra)</B> = low<BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = yes<BR><B>ULVZ at D'?</B> = yes<BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-17,28,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CAPE VERDE</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = CAPE VERDE<BR><B>Buoyancy flux (Mg/s)</B> = 1.1<BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = 2<BR><B>geoid height (m)</B> = 8<BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = NO<BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = no<BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = no<BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-24,15,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CAROLINE ISLANDS</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = CAROLINE ISLANDS<BR><B>Buoyancy flux (Mg/s)</B> = 1.6?<BR><B>flux reliability</B> = poor<BR><B>Courtillot et al. (2003)</B> = 3<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = NO<BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = fast<BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = yes<BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>166,5,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CHRISTMAS</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = CHRISTMAS]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>80,-35,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>COBB</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = COBB<BR><B>Buoyancy flux (Mg/s)</B> = <BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = 2<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = yes<BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-130.8580223468801,46.58017936136856,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>COMORES ISLANDS</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = COMORES ISLANDS<BR><B>Buoyancy flux (Mg/s)</B> = <BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = 0<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>44,-12,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>COOK-AUSTRALS</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = COOK-AUSTRALS<BR><B>Buoyancy flux (Mg/s)</B> = <BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = <BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = MORB-like<BR><B>TZ thickness (km) [1]</B> = normal<BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-140,-29,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>CROZET/PRINCE EDWARD</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = CROZET/PRINCE EDWARD<BR><B>Buoyancy flux (Mg/s)</B> = 0.5<BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = 0<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = ?]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>45,-46.24999999999999,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>DARFUR</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = DARFUR<BR><B>Buoyancy flux (Mg/s)</B> = <BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = 0<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>24,13,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>DISCOVERY</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = DISCOVERY<BR><B>Buoyancy flux (Mg/s)</B> = <BR><B>flux reliability</B> = poor<BR><B>Courtillot et al. (2003)</B> = 1<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>0,-42,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>E.AFRICA</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = E.AFRICA<BR><B>Buoyancy flux (Mg/s)</B> = 1.1<BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = <BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = yes]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>34,6,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>E.AUSTRALIA</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = E.AUSTRALIA<BR><B>Buoyancy flux (Mg/s)</B> = 0.9<BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = 1<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = no<BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>143,-38,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>EASTER/SALA Y GOMEZ</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = EASTER/SALA Y GOMEZ<BR><B>Buoyancy flux (Mg/s)</B> = 3.3<BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = primary<BR><B>geoid height (m)</B> = 0<BR><B>3He/4He (R/Ra)</B> = normal<BR><B>TZ thickness (km) [1]</B> = thin<BR><B>Temperature & heat flow</B> = < 150?<BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = UM<BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = no<BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = yes<BR><B>ULVZ at D'?</B> = no<BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-109.3511719560221,-27.11751083651704,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>EIFEL</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = EIFEL<BR><B>Buoyancy flux (Mg/s)</B> = 0.5<BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = 0<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = no<BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>6.849999999999999,50.16999999999999,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>FERNANDO DO NORONA</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = FERNANDO DO NORONA<BR><B>Buoyancy flux (Mg/s)</B> = <BR><B>flux reliability</B> = poor<BR><B>Courtillot et al. (2003)</B> = 0<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = ?]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-32,-4,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>FOUNDATION SMTS.</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = FOUNDATION SMTS.<BR><B>Buoyancy flux (Mg/s)</B> = <BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = <BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-111,-39,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>GALAPAGOS</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = GALAPAGOS<BR><B>Buoyancy flux (Mg/s)</B> = 1.4<BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = 2<BR><B>geoid height (m)</B> = 0.4<BR><B>3He/4He (R/Ra)</B> = high/variable<BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = < 70?<BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = NO<BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = yes<BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = no<BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = no<BR><B>Associated LIP?</B> = Caribbean?]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-91.29959368117352,0.07399275353860031,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>GOUGH</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = GOUGH<BR><B>Buoyancy flux (Mg/s)</B> = <BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = <BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = low<BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-10,-40,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>GREAT METEOR</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = GREAT METEOR<BR><B>Buoyancy flux (Mg/s)</B> = <BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = <BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = ?]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>28,30,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>GUADALUPE</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = GUADALUPE<BR><B>Buoyancy flux (Mg/s)</B> = <BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = 0<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = low<BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-118.3,29,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HAWAII</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = HAWAII<BR><B>Buoyancy flux (Mg/s)</B> = 6.5<BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = primary<BR><B>geoid height (m)</B> = 5<BR><B>3He/4He (R/Ra)</B> = high/variable<BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = no anomaly<BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = UM<BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = no<BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = no<BR><B>ULVZ at D'?</B> = yes<BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-155.3711308625197,19.74736291907634,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>HOGGAR MOUNTAINS, ALGER</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = HOGGAR MOUNTAINS, ALGER<BR><B>Buoyancy flux (Mg/s)</B> = <BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = 1<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>6,23,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ICELAND</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = ICELAND<BR><B>Buoyancy flux (Mg/s)</B> = 1.2<BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = primary<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = high/variable<BR><B>TZ thickness (km) [1]</B> = 235<BR><B>Temperature & heat flow</B> = up to ~ 100?<BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = UM<BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = yes<BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = yes<BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = no<BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = no<BR><B>ULVZ at D'?</B> = yes<BR><B>Associated LIP?</B> = Greenland]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-20,64,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>JAN MAYEN</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = JAN MAYEN<BR><B>Buoyancy flux (Mg/s)</B> = <BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = 1<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = NO<BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = yes<BR><B>Associated LIP?</B> = Siberia?]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-8,71,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>JUAN FERNANDEZ</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = JUAN FERNANDEZ<BR><B>Buoyancy flux (Mg/s)</B> = 1.6?<BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = 2<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = high<BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = shallow<BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = no<BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-79,-34,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>KERGUELEN</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = KERGUELEN<BR><B>Buoyancy flux (Mg/s)</B> = .9?<BR><B>flux reliability</B> = poor<BR><B>Courtillot et al. (2003)</B> = 2<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = low<BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = shallow<BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = no<BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = Broken R?]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>62.99999999999999,-48.99999999999999,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LORD HOWE</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = LORD HOWE<BR><B>Buoyancy flux (Mg/s)</B> = 0.9<BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = 1]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>159.1,-31.2,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>LOUISVILLE HOTSPOT</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = LOUISVILLE HOTSPOT<BR><B>Buoyancy flux (Mg/s)</B> = 2<BR><B>flux reliability</B> = poor<BR><B>Courtillot et al. (2003)</B> = primary<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = UM<BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = no<BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-138.1,-50.90000000000001,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MACDONALD</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = MACDONALD<BR><B>Buoyancy flux (Mg/s)</B> = 3.3?<BR><B>flux reliability</B> = poor<BR><B>Courtillot et al. (2003)</B> = 2<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = UM<BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-140.26,-28.98999999999999,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MADEIRA</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = MADEIRA<BR><B>Buoyancy flux (Mg/s)</B> = <BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = <BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-17,33,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MARION</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = MARION<BR><B>Buoyancy flux (Mg/s)</B> = <BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = 1<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = Madagascar?]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>37.75,-46.9,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MARQUESAS ISLANDS</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = MARQUESAS ISLANDS<BR><B>Buoyancy flux (Mg/s)</B> = 3.3?<BR><B>flux reliability</B> = poor<BR><B>Courtillot et al. (2003)</B> = 2<BR><B>geoid height (m)</B> = 2.25<BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = shallow<BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = ?]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-137.5,-7.5,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MARSHALL-GILBERT ISLANDS</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = MARSHALL-GILBERT ISLANDS]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-153.5,-21,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MARTEN VAZ</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = MARTEN VAZ]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-29,-21,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>METEOR</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = METEOR<BR><B>Buoyancy flux (Mg/s)</B> = <BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = <BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>1,-51.99999999999999,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>MOUNT EREBUS</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = MOUNT EREBUS]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>167,-78,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>NEW ENGLAND</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = NEW ENGLAND<BR><B>Buoyancy flux (Mg/s)</B> = <BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = <BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = no<BR><B>Associated LIP?</B> = ?]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>28,-32,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>PITCAIRN ISLAND</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = PITCAIRN ISLAND<BR><B>Buoyancy flux (Mg/s)</B> = 3.3?<BR><B>flux reliability</B> = poor<BR><B>Courtillot et al. (2003)</B> = 2<BR><B>geoid height (m)</B> = 0.4<BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = thin<BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = shallow<BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-128.3172525250869,-24.35809118324359,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>RATON, NEW MEXICO (GVP)</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = RATON, NEW MEXICO (GVP)<BR><B>Buoyancy flux (Mg/s)</B> = <BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = <BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-104.08,36.42,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>REUNION (FOURNAISE) (GVP)</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = REUNION (FOURNAISE) (GVP)<BR><B>Buoyancy flux (Mg/s)</B> = 1.4?<BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = primary<BR><B>geoid height (m)</B> = 2.6<BR><B>3He/4He (R/Ra)</B> = moderate<BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = NO<BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = ?]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>55.713,-21.229,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ROSS SEA</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = ROSS SEA]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>168,-77,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SAMOA</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = SAMOA<BR><B>Buoyancy flux (Mg/s)</B> = 1.6<BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = primary<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = high/variable<BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = UM<BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = no<BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = yes<BR><B>ULVZ at D'?</B> = yes<BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-169.6,-14.2,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SAN FELIX</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = SAN FELIX<BR><B>Buoyancy flux (Mg/s)</B> = 1.6<BR><B>flux reliability</B> = poor<BR><B>Courtillot et al. (2003)</B> = 1<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = shallow<BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = no<BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-80.12,-26.27,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SHONA</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = SHONA<BR><B>Buoyancy flux (Mg/s)</B> = <BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = <BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = MORB-like<BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>0,-51.99999999999999,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>SOCORRO</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = SOCORRO<BR><B>Buoyancy flux (Mg/s)</B> = <BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = <BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = low<BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-111,19,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST. HELENA</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = ST. HELENA<BR><B>Buoyancy flux (Mg/s)</B> = <BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = 0<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = no<BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-5.701999869858907,-15.8933248820669,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>ST. PAUL ISLAND (GVP)</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = ST. PAUL ISLAND (GVP)]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>77.53,-38.72,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TAHITI</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = TAHITI<BR><B>Buoyancy flux (Mg/s)</B> = 3.3?<BR><B>flux reliability</B> = poor<BR><B>Courtillot et al. (2003)</B> = 2<BR><B>geoid height (m)</B> = 2<BR><B>3He/4He (R/Ra)</B> = low<BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = NO<BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = no<BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = yes<BR><B>ULVZ at D'?</B> = yes<BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-149.5,-17.6,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TASMANTID</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = TASMANTID<BR><B>Buoyancy flux (Mg/s)</B> = 0.9<BR><B>flux reliability</B> = poor<BR><B>Courtillot et al. (2003)</B> = 1<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = yes<BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>156.5,-38.8,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TIBESTI, CHAD</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = TIBESTI, CHAD<BR><B>Buoyancy flux (Mg/s)</B> = 0.4<BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = <BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = no<BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>17,21,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TRINIDADE/MARTEN</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = TRINIDADE/MARTEN<BR><B>Buoyancy flux (Mg/s)</B> = 0.7<BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = <BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = no<BR><B>Associated LIP?</B> = ?]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-29.331,-20.514,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>TRISTAN DA CUNHA</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = TRISTAN DA CUNHA<BR><B>Buoyancy flux (Mg/s)</B> = 1<BR><B>flux reliability</B> = poor<BR><B>Courtillot et al. (2003)</B> = primary<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = low<BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = < 150-162?<BR><B>Pre-existing crack or FZ?</B> = yes<BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = NO<BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = no<BR><B>ULVZ at D'?</B> = no<BR><B>Associated LIP?</B> = yes?]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-12.28,-37.092,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>VEMA SEAMOUNT</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = VEMA SEAMOUNT<BR><B>Buoyancy flux (Mg/s)</B> = 0.4<BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = <BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = <BR><B>TZ thickness (km) [1]</B> = <BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = <BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = <BR><B>Associated LIP?</B> = no]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>16,-32,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>YELLOWSTONE</name>
+				<description><![CDATA[Landmark<BR><BR><B>HOTSPOT</B> = YELLOWSTONE<BR><B>Buoyancy flux (Mg/s)</B> = 1.5<BR><B>flux reliability</B> = <BR><B>Courtillot et al. (2003)</B> = 2<BR><B>geoid height (m)</B> = <BR><B>3He/4He (R/Ra)</B> = variable<BR><B>TZ thickness (km) [1]</B> = normal<BR><B>Temperature & heat flow</B> = <BR><B>Pre-existing crack or FZ?</B> = <BR><B>Tomographic LVZ (Ritsema & Allen, 2003)</B> = NO<BR><B>LVZ at depth (110 km) beneath the hotspot [3]</B> = <BR><B>LVZ at depth (290 km) beneath the hotspot [3]</B> = no<BR><B>LVZ at depth (100 km) beneath the hotspot [3]</B> = <BR><B>P-wave anomaly in bottom 1,000 km of mantle [4]</B> = <BR><B>ULVZ at D'?</B> = no<BR><B>Associated LIP?</B> = CRB?]]></description>
+				<styleUrl>#msn_ylw-pushpin400</styleUrl>
+				<Point>
+				<altitudeMode>absolute</altitudeMode>
+					<coordinates>-110.67,44.43,6.378e+06</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Aseismic Ridges</name>
+			<description>A long linear mountainous ridge in an ocean basin, usually the result of volcanic activity generated as an ocean plate travels over a hot spot in the Earth&apos;s mantle</description>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#msn_ylw-pushpin0</styleUrl>
+				<LineString>
+				        <altitudeMode>absolute</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-140.4644623273384,-50.73207237653144,6.378e+06 -155.2787948253326,-46.36841556090964,6.378e+06 -164.356960943519,-41.22647291607643,6.378e+06 -168.7247652776592,-37.61469401046396,6.378e+06 -171.6277989629977,-33.1798991636953,6.378e+06 -173.882740138884,-28.28896872550629,6.378e+06 -175.1349840326963,-25.5677443083806,6.378e+06 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Bowie</name>
+				<styleUrl>#msn_ylw-pushpin70</styleUrl>
+				<LineString>
+				        <altitudeMode>absolute</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-135.6833484092302,53.33778445587953,6.378e+06 -137.4353616566446,54.07030050465246,6.378e+06 -140.3862276979955,55.12052277370746,6.378e+06 -146.3823686893138,56.50998195636593,6.378e+06 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Cobb</name>
+				<styleUrl>#msn_ylw-pushpin70</styleUrl>
+				<LineString>
+				        <altitudeMode>absolute</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-130.8656959955068,46.63197002611929,6.378e+06 -132.8484875473935,48.14220251079022,6.378e+06 -135.2678825288735,49.37591433904597,6.378e+06 -146.8380388020161,52.48089216266177,6.378e+06 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Galapagos</name>
+				<styleUrl>#msn_ylw-pushpin70</styleUrl>
+				<LineString>
+				        <altitudeMode>absolute</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-91.24868250093475,-0.01151701144413684,6.378e+06 -89.59221129811344,1.973357829191903,6.378e+06 -87.51811427276382,4.087077040554001,6.378e+06 -85.16878443547971,7.025261527933912,6.378e+06 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Hawaii</name>
+				<styleUrl>#msn_ylw-pushpin70</styleUrl>
+				<LineString>
+				        <altitudeMode>absolute</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-155.4199217218526,19.81462745322821,6.378e+06 -158.104324750499,21.4702475644005,6.378e+06 -161.9835448182404,22.88122053304746,6.378e+06 -166.2155237561934,23.95404232785653,6.378e+06 -170.8697489331705,25.46820170613352,6.378e+06 -173.6856662454293,26.0980509457656,6.378e+06 -178.1558324257141,28.36074536210803,6.378e+06 175.7268270242892,30.92253487027828,6.378e+06 172.9327697834528,32.0945524079226,6.378e+06 172.2195257670481,32.7519021733215,6.378e+06 171.8575644423698,35.1920386583361,6.378e+06 170.6397526990792,41.31806263090316,6.378e+06 169.5801184262555,46.92722176593779,6.378e+06 167.9673809720458,51.32947420692938,6.378e+06 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Yellowstone</name>
+				<styleUrl>#msn_ylw-pushpin70</styleUrl>
+				<LineString>
+				        <altitudeMode>absolute</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-111.0752636329772,44.23086521901092,6.378e+06 -112.3047915123205,43.69061975941079,6.378e+06 -113.5301472783355,43.19483540047926,6.378e+06 -115.0861650484442,42.59321629794017,6.378e+06 -116.9766527678365,42.06963716657076,6.378e+06 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Easter Island</name>
+				<styleUrl>#msn_ylw-pushpin70</styleUrl>
+				<LineString>
+				        <altitudeMode>absolute</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-109.3231310812575,-27.33269880877202,6.378e+06 -105.1506608761782,-27.04530818043573,6.378e+06 -98.67925531851512,-26.41756226424549,6.378e+06 -86.29827894006208,-24.91954688523315,6.378e+06 -83.31023280267927,-24.46581312318563,6.378e+06 -81.65536539806203,-22.52400164420566,6.378e+06 -78.51069519391586,-18.1064374432567,6.378e+06 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Pitcairn</name>
+				<styleUrl>#msn_ylw-pushpin70</styleUrl>
+				<LineString>
+				        <altitudeMode>absolute</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-128.3556570058169,-24.38133855413833,6.378e+06 -136.6577457230476,-21.53647116746973,6.378e+06 -145.3365149622256,-16.37501583684582,6.378e+06 -146.5549787655413,-15.36832460844213,6.378e+06 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Austrails</name>
+				<styleUrl>#msn_ylw-pushpin70</styleUrl>
+				<LineString>
+				        <altitudeMode>absolute</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-140.2263147191727,-29.05734327848133,6.378e+06 -148.9358576172415,-25.26095565429428,6.378e+06 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Canary</name>
+				<styleUrl>#msn_ylw-pushpin70</styleUrl>
+				<LineString>
+				        <altitudeMode>absolute</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-16.90786119696885,28.04213963996691,6.378e+06 -14.90178582964001,27.91648023480892,6.378e+06 -13.76867654019037,28.7523596064387,6.378e+06 -12.73967786986657,29.91416109578962,6.378e+06 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>St Helena</name>
+				<styleUrl>#msn_ylw-pushpin70</styleUrl>
+				<LineString>
+				        <altitudeMode>absolute</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-5.72375254976032,-16.00377178779198,6.378e+06 0.1038503777086652,-6.658691724339438,6.378e+06 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>kerguelenl</name>
+				<styleUrl>#msn_ylw-pushpin70</styleUrl>
+				<LineString>
+				        <altitudeMode>absolute</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>
+						78.2287393767989,-37.47902063373793,6.378e+06 87.66562308005547,-28.69979152833908,6.378e+06 90.52709709657552,6.783934017221248,6.378e+06 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Reunion</name>
+				<styleUrl>#msn_ylw-pushpin70</styleUrl>
+				<LineString>
+				        <altitudeMode>absolute</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>
+						72.25447198242577,14.46530463631772,6.378e+06 73.57852318101195,3.039435047657025,6.378e+06 72.8165784185754,-5.784307418483236,6.378e+06 71.30935926306931,-9.706226081147438,6.378e+06 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#msn_ylw-pushpin2</styleUrl>
+				<LineString>
+				        <altitudeMode>absolute</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#msn_ylw-pushpin1</styleUrl>
+				<LineString>
+				        <altitudeMode>absolute</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-147.7306573273141,-13.40705941041862,6.378e+06 -151.5038898931358,-8.007667818433449,6.378e+06 -153.6561712728387,-4.671969270521412,6.378e+06 -157.5177630056069,1.568762412783288,6.378e+06 -168.651764286339,15.95089157455679,6.378e+06 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#msn_ylw-pushpin7</styleUrl>
+				<LineString>
+				        <altitudeMode>absolute</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>
+						167.4791730252928,16.01621050028834,6.378e+06 172.0037663288646,6.351152648545584,6.378e+06 175.3188754511183,-1.348800816973821,6.378e+06 178.167367237579,-7.339644239933103,6.378e+06 -178.6086857895411,-11.6367330326079,6.378e+06 -171.8508489217395,-14.02812628720749,6.378e+06 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#msn_ylw-pushpin3</styleUrl>
+				<LineString>
+				        <altitudeMode>absolute</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-32.85855739864546,-4.034793666138233,6.378e+06 -35.54643572008351,-4.028313983008128,6.378e+06 -37.09641509671561,-3.496464129903012,6.378e+06 -39.18644156228439,-0.4500521353404394,6.378e+06 -39.85456617921413,0.3310283808560721,6.378e+06 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#msn_ylw-pushpin5</styleUrl>
+				<LineString>
+				        <altitudeMode>absolute</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-16.69662998698864,33.45687562448173,6.378e+06 -12.99829301798657,39.1598051405286,6.378e+06 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#msn_ylw-pushpin</styleUrl>
+				<LineString>
+				        <altitudeMode>absolute</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-24.27415515446836,38.26869818978156,6.378e+06 -20.41401503995798,41.47116413818514,6.378e+06 -20.52143227456237,42.64668353718684,6.378e+06 -23.31096456796935,44.31229697606226,6.378e+06 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#msn_ylw-pushpin4</styleUrl>
+				<LineString>
+				        <altitudeMode>absolute</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>
+						-111.4169332490956,-37.68410563174508,6.378e+06 -115.1863719239339,-35.9869685072963,6.378e+06 -120.3649444444623,-34.69200777044915,6.378e+06 -124.5140787669809,-33.1631652192917,6.378e+06 -128.4211206931992,-32.18582850847996,6.378e+06 
+					</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Untitled Path</name>
+				<styleUrl>#msn_ylw-pushpin6</styleUrl>
+				<LineString>
+				        <altitudeMode>absolute</altitudeMode>
+					<tessellate>1</tessellate>
+					<coordinates>
+						164.9976407793342,5.083081121250635,6.378e+06 161.1826568532216,6.131307350045537,6.378e+06 159.0269666218509,6.645335737825961,6.378e+06 155.170741176972,7.447309093133554,6.378e+06 
+					</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Overlays</name>
+			<ScreenOverlay id="LogoOverlay_TopLeft">
+				<name>SDSU Geological Sciences</name>
+				<description>http://www.geology.sdsu.edu</description>
+				<Icon>
+					<href>http://www.geology.sdsu.edu/kmlgeology/screen_overlays/sdsu_overlay_sm.png</href>
+				</Icon>
+				<overlayXY x="0" y="0" xunits="fraction" yunits="fraction"/>
+				<screenXY x="0" y="0.025" xunits="fraction" yunits="fraction"/>
+				<rotationXY x="0.5" y="0.5" xunits="fraction" yunits="fraction"/>
+				<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+			</ScreenOverlay>
+		</Folder>
+	</Folder>
+</Document>
+</kml>
