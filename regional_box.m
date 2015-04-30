@@ -7,6 +7,17 @@ function regional_box(latmin,latmax,lonmin,lonmax,b_depth)
 %Written by:
 %Martin Pratt, 2015
 
+width=3000;
+earth = figure( 'tag','EarthView','NumberTitle','off','Position', [1 1 width width*(9/16)]);
+set(earth,'PaperUnits','inches','PaperPosition',[0 0 16 9])
+ax=axes('Units', 'normalized','Position',[.0 .0 1 1]);
+image(-180:.1:180,-90:.1:90,imread('world.topo.bathy.200410.3x5400x2700.png'),'Parent',ax ,'Tag','ModisMap');
+xlim([lonmin lonmax])
+nlat=[latmin*-1 latmax*-1];
+ylim(sort(nlat))
+
+print(earth,'-dpng','regional_satellite.png')
+close
 
 lat=latmin:latmax;
 lon=lonmin:lonmax;
@@ -28,6 +39,7 @@ scalebar=0:100:b_depth;
 fid=fopen('box.kml','w');
 fprintf(fid,'<?xml version="1.0" encoding="UTF-8"?>\n');
 fprintf(fid,'<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">\n');
+fprintf(fid,'<Folder>\n');
 fprintf(fid,'<Document>\n');
 fprintf(fid,'	<name>bounding box</name>\n');
 fprintf(fid,'	<StyleMap id="default">\n');
@@ -206,6 +218,23 @@ fprintf(fid,'0</coordinates>\n');
 fprintf(fid,'      </Point>\n');
 fprintf(fid,'   </Placemark>\n');
 fprintf(fid,'</Document>\n');
+fprintf(fid,'<GroundOverlay>\n');
+fprintf(fid,'	<name>MODIS imagery</name>\n');
+fprintf(fid,'	<color>7affffff</color>\n');
+fprintf(fid,'	<Icon>\n');
+fprintf(fid,'		<href>regional_satellite.png</href>\n');
+fprintf(fid,'		<viewBoundScale>0.75</viewBoundScale>\n');
+fprintf(fid,'	</Icon>\n');
+fprintf(fid,['	<altitude>' num2str(scaling_surf) '</altitude>\n']);
+fprintf(fid,'	<altitudeMode>absolute</altitudeMode>\n');
+fprintf(fid,'	<LatLonBox>\n');
+fprintf(fid,['		<north>' num2str(latmax) '</north>\n']);
+fprintf(fid,['		<south>' num2str(latmin) '</south>\n']);
+fprintf(fid,['		<east>' num2str(lonmax) '</east>\n']);
+fprintf(fid,['		<west>' num2str(lonmin) '</west>\n']);
+fprintf(fid,'	</LatLonBox>\n');
+fprintf(fid,'</GroundOverlay>\n');
+fprintf(fid,'</Folder>\n');
 fprintf(fid,'</kml>\n');
 fclose(fid);
 end
